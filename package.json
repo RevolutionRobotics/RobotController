@@ -14,7 +14,7 @@
     "blockly": "github:google/blockly#master",
     "immutable": "^4.0.0-rc.12",
     "react": "16.6.3",
-    "react-native": "0.59.8",
+    "react-native": "0.62.3",
     "react-native-ble-plx": "^1.0.2",
     "react-native-extra-dimensions-android": "^1.2.1",
     "react-native-gesture-handler": "^1.1.0",
